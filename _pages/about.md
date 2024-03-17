@@ -9,10 +9,10 @@ redirect_from:
 
 I am an assistant professor in the [School of Computing](https://www.montclair.edu/school-of-computing/) at [Montclair State University](https://www.montclair.edu/). I received my Ph.D. in Computer Science from [Rutgers, The State University of New Jersey](https://www.rutgers.edu/) in January 2019, where I worked with my advisor, Prof. [Vinod Ganapathy](https://www.csa.iisc.ac.in/~vg/).
 
-### Research Interests
+## Research Interests
 System Security, Mobile Security, and Program Analysis
 
-### Teaching
+## Teaching
 CSIT 104 - Python Programming I [Fall 2022, Spring 2023] \
 CSIT 112 - Fundamentals of Programming II [Spring 2022]\
 CSIT 213 - DSA In Python [Summer 2023]\
@@ -22,7 +22,7 @@ CSIT 460 - Computer Security [Fall 2021, Fall 2022, Fall 2023]\
 CSIT 560 - Data Structures with Python [Summer 2023]\
 CSIT 561 - Computer Security [Spring 2022]
 
-### Publications
+## Publications
 **Harmonized All-Ways Security Surveillance and Disaster Prevention in Smart Eco-Cities.**\
 Hyunbum Kim, Jalel Ben-Othman, Daeyoung Kim. \
 *IEEE Internet of Things Journal, December 2023.*
@@ -59,21 +59,21 @@ Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
 Amruta Gokhale, Daeyoung Kim and Vinod Ganapathy.\
 *In Proceedings of the Workshop on Programming for Mobile and Touch (PROMOTO), October 2014.*
 
-### Professional Service
-#### Technical Program Committee
+## Professional Service
+### Technical Program Committee
 [IoTEF] IEEE International Workshop on IoT in Emerging Fields - 2023\
 [DASC] IEEE International Conference on Dependable, Autonomic & Secure Computing - 2020, 2021\
 [CIKM] ACM International Conference on Information and Knowledge Management - 2022
 
-#### Program Chair/Co-Chair
+### Program Chair/Co-Chair
 
 Publication Chair: Korean Computer Scientists and Engineers Association in America Technical Symposium - 2021\
 Finance Co-Chair: Korean Computer Scientists and Engineers Association in America Technical Symposium - 2022
 
-#### Journal Reviewer
+### Journal Reviewer
 [ToN] IEEE/ACM Transactions on Networking - 2022
 
-#### External Reviewer
+### External Reviewer
 [ICTAI] IEEE International Conference on Tools with Artificial Intelligence - 2022\
 [ICC] IEEE International Conference on Communications - 2021\
 [Access] IEEE Access - 2019
