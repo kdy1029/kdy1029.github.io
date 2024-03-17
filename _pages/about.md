@@ -30,17 +30,70 @@ CSIT 560 - Data Structures with Python [Summer 2023]
 CSIT 561 - Computer Security [Spring 2022]
 
 ### Publications
+**Harmonized All-Ways Security Surveillance and Disaster Prevention in Smart Eco-Cities.**\
+Hyunbum Kim, Jalel Ben-Othman, Daeyoung Kim. \
+*IEEE Internet of Things Journal, December 2023.*
 
+**Rethinking the Weakness of Stream Ciphers and Its Application to Encrypted Malware Detection.**\
+William Stone, Daeyoung Kim, Victor Youdom Kemmoe, Mingon Kang, Junggab Son. \
+*IEEE Access, October 2020.*
+
+**Recent Advances in Smart Contracts: A Technical Overview and State of the Art.**\
+Victor Youdom Kemmoe, William Stone, Jeehyeong Kim, Daeyoung Kim, and Junggab Son.\
+*IEEE Access, June 2020.*
+
+**Detecting Plagiarized Mobile Apps using API Birthmarks.**\
+Daeyoung Kim, Amruta Gokhale, Vinod Ganapathy, and Abhinav Srivastava.\
+*Journal of Automated Software Engineering, Springer, December 2016.*
+
+**Seeing is believing: Sharing Real-time Traffic Images via Vehicular Clouds.**\
+Daehan Kwak, Ruilin Liu, Daeyoung Kim, Badri Nath and Liviu Iftode.\
+*IEEE Access, 2016.*
+
+**Regulating ARM TrustZone Devices in Restricted Spaces.**\
+Ferdinand Brasser, Daeyoung Kim, Christopher Liebchen, Vinod Ganapathy, Liviu Iftode, and Ahmad-Reza Sadeghi.\
+*In the Proceedings of the ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June 2016, Acceptance: 31/197 (15.7%).*
+
+**DoppelDriver: Counterfactual Actual Travel Times for Alternative Routes.**\
+Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
+*In the Proceedings of the IEEE International Conference on Pervasive Computing and Communications (PerCom), March 2015, Acceptance: 29/196 (14.8%).*
+
+**Tweeting Traffic Image Reports on the Road.**\
+Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
+*In Proceedings of the International Conference on Mobile Computing, Applications and Services (MobiCase), November 2014.*
+
+**Data-Driven Inference of API Mappings.**\ 
+Amruta Gokhale, Daeyoung Kim and Vinod Ganapathy.\
+*In Proceedings of the Workshop on Programming for Mobile and Touch (PROMOTO), October 2014.*
+
+### Professional Service
+#### Technical Program Committee
+[IoTEF] IEEE International Workshop on IoT in Emerging Fields - 2023\
+[DASC] IEEE International Conference on Dependable, Autonomic & Secure Computing - 2020, 2021\
+[CIKM] ACM International Conference on Information and Knowledge Management - 2022
+
+#### Program Chair/Co-Chair
+
+Publication Chair: Korean Computer Scientists and Engineers Association in America Technical Symposium - 2021\
+Finance Co-Chair: Korean Computer Scientists and Engineers Association in America Technical Symposium - 2022
+
+#### Journal Reviewer
+[ToN] IEEE/ACM Transactions on Networking - 2022
+
+#### External Reviewer
+[ICTAI] IEEE International Conference on Tools with Artificial Intelligence - 2022\
+[ICC] IEEE International Conference on Communications - 2021\
+[Access] IEEE Access - 2019
 
 <!-- 
 ### Current Students
 Recent Research Areas & Interests
 News
 Selected Publications
-Professional Service
+
 Technical Program Committee
 Program Chair/Co-Chair
-Journal Reviewer
+
 External Reviewer
 External Collaborators
 
