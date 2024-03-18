@@ -55,7 +55,7 @@ Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
 Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
 *In Proceedings of the International Conference on Mobile Computing, Applications and Services (MobiCase), November 2014.*
 
-**Data-Driven Inference of API Mappings.**\ 
+**Data-Driven Inference of API Mappings.**\
 Amruta Gokhale, Daeyoung Kim and Vinod Ganapathy.\
 *In Proceedings of the Workshop on Programming for Mobile and Touch (PROMOTO), October 2014.*
 
