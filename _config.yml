@@ -12,7 +12,7 @@ title                    : "Daeyoung Kim"
 title_separator          : "-"
 name                     : &name "Daeyoung Kim"
 description              : &description ""
-url                      : https://kdy1029.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daeyoung.kim # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kdy1029/kdy1029.github.io"
 
