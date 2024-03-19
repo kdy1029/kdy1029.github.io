@@ -72,7 +72,7 @@ Finance Co-Chair: Korean Computer Scientists and Engineers Association in Americ
 
 
 ### External Reviewer
-[ToN] IEEE/ACM Transactions on Networking - 2022
+[ToN] IEEE/ACM Transactions on Networking - 2022\
 [ICTAI] IEEE International Conference on Tools with Artificial Intelligence - 2022\
 [ICC] IEEE International Conference on Communications - 2021\
 [Access] IEEE Access - 2019
