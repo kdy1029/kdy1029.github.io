@@ -59,7 +59,7 @@ Daehan Kwak, Daeyoung Kim, Ruilin Liu, Badri Nath and Liviu Iftode.\
 Amruta Gokhale, Daeyoung Kim and Vinod Ganapathy.\
 *In Proceedings of the Workshop on Programming for Mobile and Touch (PROMOTO), October 2014.*
 
-## Professional Service
+## Service
 ### Technical Program Committee
 [IoTEF] IEEE International Workshop on IoT in Emerging Fields - 2023\
 [DASC] IEEE International Conference on Dependable, Autonomic & Secure Computing - 2020, 2021\
