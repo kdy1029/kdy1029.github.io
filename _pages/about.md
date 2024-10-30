@@ -16,13 +16,17 @@ System Security, Mobile Security, and Program Analysis
 CSIT 104 - Python Programming I [Fall 2022, Spring 2023] \
 CSIT 112 - Fundamentals of Programming II [Spring 2022]\
 CSIT 213 - DSA In Python [Summer 2023]\
-CSIT 340 - Computer Networks [Spring 2024]\
+CSIT 340 - Computer Networks [Spring 2024, Fall 2024]\
 CSIT 345 - Operating Systems [Spring 2022, Spring 2023, Spring 2024]\
 CSIT 460 - Computer Security [Fall 2021, Fall 2022, Fall 2023]\
 CSIT 560 - Data Structures with Python [Summer 2023]\
 CSIT 561 - Computer Security [Spring 2022]
 
 ## Publications
+**Anti-EMP: Encrypted Malware Packets Filtering Algorithm Leveraging Ciphertext Patterns under Zero Knowledge Settin.**\
+Junggab Son, Jeehyung Kim, Jemin Ahn, Doowon Kim, Homook Cho, Daeyoung Kim \
+*In the 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October 2024.*
+
 **Harmonized All-Ways Security Surveillance and Disaster Prevention in Smart Eco-Cities.**\
 Hyunbum Kim, Jalel Ben-Othman, Daeyoung Kim. \
 *IEEE Internet of Things Journal, December 2023.*
