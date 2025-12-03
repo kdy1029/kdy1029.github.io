@@ -23,6 +23,7 @@ CSIT 560 - Data Structures with Python [Summer 2023]\
 CSIT 561 - Computer Security [Spring 2022]
 
 ## Publications
+
 **Anti-EMP: Encrypted Malware Packets Filtering Algorithm Leveraging Ciphertext Patterns under Zero Knowledge Setting.**\
 Junggab Son, Jeehyung Kim, Jemin Ahn, Doowon Kim, Homook Cho, Daeyoung Kim \
 *In the 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October 2024.*
