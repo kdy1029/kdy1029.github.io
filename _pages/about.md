@@ -16,13 +16,21 @@ System Security, Mobile Security, and Program Analysis
 CSIT 104 - Python Programming I [Fall 2022, Spring 2023] \
 CSIT 112 - Fundamentals of Programming II [Spring 2022]\
 CSIT 213 - DSA In Python [Summer 2023]\
-CSIT 340 - Computer Networks [Spring 2024, Fall 2024]\
+CSIT 340 - Computer Networks [Spring 2024, Fall 2024, Spring 2025, Fall 2025]\
 CSIT 345 - Operating Systems [Spring 2022, Spring 2023, Spring 2024]\
 CSIT 460 - Computer Security [Fall 2021, Fall 2022, Fall 2023]\
+CSIT 540 - Computer Networks [Fall 2025]\
 CSIT 560 - Data Structures with Python [Summer 2023]\
 CSIT 561 - Computer Security [Spring 2022]
 
 ## Publications
+**Assessing IoT Android App Security: Static Components, Privacy Threats and Vulnerabilities.**\
+Firdous Samreen, Sawsan Imleh, Daeyoung Kim \
+*In the 12th EAI International Conference on Mobility, IoT and Smart Cities, December 2025.*
+
+**Evaluating Small Language Models for Intrusion Detection on Automotive Embedded Platforms.**\
+Islam Salah,Junggab Son, Stefan Robila, Daeyoung Kim \
+*In the Proceedings of the ACM International Conference on Research in Adaptive and Convergent Systems, November 2025.*
 
 **Anti-EMP: Encrypted Malware Packets Filtering Algorithm Leveraging Ciphertext Patterns under Zero Knowledge Setting.**\
 Junggab Son, Jeehyung Kim, Jemin Ahn, Doowon Kim, Homook Cho, Daeyoung Kim \
